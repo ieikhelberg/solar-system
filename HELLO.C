@@ -1,5 +1,3 @@
-/*	HELLO.C -- Hello, world */
-
 #include <stdio.h>
 
 main()
@@ -9,4 +7,4 @@ main()
 
 
 
-	
+	
